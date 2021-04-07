@@ -3,7 +3,9 @@ import React from 'react';
 const App = () => {
 
   return (
-    <div>I AM THE APP</div>
+
+    <div>THIS IS THE APP THAT I ACTUALLY WANT</div>
+
   )
 }
 
