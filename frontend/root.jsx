@@ -1,8 +1,12 @@
 import React from 'react';
+import App from './app';
 
 const Root = () => {
   return (
-    <div>I AM ROOT</div>
+    <div>
+      <div>I AM ROOT</div>
+      <App />
+    </div>
   )
 }
 
